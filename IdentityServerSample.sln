@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer.AuthCenter", "IdentityServer.AuthCenter\IdentityServer.AuthCenter.csproj", "{F6DA7730-6851-4933-AD4C-F48B938DA544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer.ProductService", "IdentityServer.ProductService\IdentityServer.ProductService.csproj", "{F32A8751-B6B4-4A2A-89E8-BDE962ACE504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6DA7730-6851-4933-AD4C-F48B938DA544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6DA7730-6851-4933-AD4C-F48B938DA544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6DA7730-6851-4933-AD4C-F48B938DA544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6DA7730-6851-4933-AD4C-F48B938DA544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32A8751-B6B4-4A2A-89E8-BDE962ACE504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32A8751-B6B4-4A2A-89E8-BDE962ACE504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32A8751-B6B4-4A2A-89E8-BDE962ACE504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32A8751-B6B4-4A2A-89E8-BDE962ACE504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23698941-271F-4815-BFA2-57C428A9FB54}
+	EndGlobalSection
+EndGlobal
